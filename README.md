@@ -1,1 +1,2 @@
-# IIEC_PYTHON
+# IIEC_RISE_PYTHON
+In this program, I've tried to convert OS based programs into a menu driven program using Python code which will execute the required user query when user will give the input as a text. In this code, I've incorporated few windows applications that we usually use like chrome browser,text editor,media player etc.The program opens an application when requested to it for now. A lot more modifications are to be done.
